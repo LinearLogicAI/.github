@@ -5,7 +5,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 ## Available resources
 
 
-- Linear Logic Python SDK
+- [Linear Logic Python SDK](https://github.com/LinearLogicAI/linear-logic-python-sdk)
 
 ## Contact
 
